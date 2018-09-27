@@ -1,0 +1,14 @@
+{
+  "name": "elastic-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ekanshi Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^15.1.1"
+  }
+}

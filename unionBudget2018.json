@@ -1,0 +1,794 @@
+[
+{
+"Id": 1,
+"Ministry": "MINISTRY OF AGRICULTURE AND FARMERS' WELFARE",
+"Department": "Department of Agriculture, Cooperation and Farmers' Welfare",
+"Revenue": 46586.3,
+"Capital": 113.7,
+"Total": 46700
+},
+{
+"Id": 2,
+"Ministry": "MINISTRY OF AGRICULTURE AND FARMERS' WELFARE",
+"Department": "Department of Agricultural Research and Education",
+"Revenue": 7800,
+"Capital": "NA",
+"Total": 7800
+},
+{
+"Id": 3,
+"Ministry": "MINISTRY OF AGRICULTURE AND FARMERS' WELFARE",
+"Department": "3. Department of Animal Husbandry, Dairying and Fisheries",
+"Revenue": 3056.11,
+"Capital": 43.89,
+"Total": 3100
+},
+{
+"Id": 4,
+"Ministry": "DEPARTMENT OF ATOMIC ENERGY",
+"Department": "Atomic Energy",
+"Revenue": 7834.38,
+"Capital": 6137.03,
+"Total": 13971.41
+},
+{
+"Id": 5,
+"Ministry": "MINISTRY OF AYURVEDA, YOGA AND NATUROPATHY, UNANI, SIDDHA AND HOMOEOPATHY (AYUSH)",
+"Department": "Ministry of Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy (AYUSH)",
+"Revenue": 1602.67,
+"Capital": 23.7,
+"Total": 1626.37
+},
+{
+"Id": 6,
+"Ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
+"Department": "Department of Chemicals and Petrochemicals",
+"Revenue": 199.65,
+"Capital": "NA",
+"Total": 199.65
+},
+{
+"Id": 7,
+"Ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
+"Department": "Department of Fertilisers",
+"Revenue": 70125.35,
+"Capital": 0.04,
+"Total": 70125.39
+},
+{
+"Id": 8,
+"Ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
+"Department": "Department of Pharmaceuticals",
+"Revenue": 261.47,
+"Capital": 0.06,
+"Total": 261.53
+},
+{
+"Id": 9,
+"Ministry": "MINISTRY OF CIVIL AVIATION",
+"Department": "Ministry of Civil Aviation",
+"Revenue": 5881.86,
+"Capital": 721,
+"Total": 6602.86
+},
+{
+"Id": 10,
+"Ministry": "MINISTRY OF COAL",
+"Department": "Ministry of Coal",
+"Revenue": 770.91,
+"Capital": "NA",
+"Total": 770.91
+},
+{
+"Id": 11,
+"Ministry": "MINISTRY OF COMMERCE AND INDUSTRY",
+"Department": "Department of Commerce",
+"Revenue": 4741.7,
+"Capital": 510,
+"Total": 5251.7
+},
+{
+"Id": 12,
+"Ministry": "MINISTRY OF COMMERCE AND INDUSTRY",
+"Department": "Department of Industrial Policy and Promotion",
+"Revenue": 5430.56,
+"Capital": 709.67,
+"Total": 6140.23
+},
+{
+"Id": 13,
+"Ministry": "MINISTRY OF COMMUNICATIONS",
+"Department": "Department of Posts",
+"Revenue": 10738.66,
+"Capital": 757.52,
+"Total": 11496.18
+},
+{
+"Id": 14,
+"Ministry": "MINISTRY OF COMMUNICATIONS",
+"Department": "Department of Telecommunications",
+"Revenue": 23052.53,
+"Capital": 5002.75,
+"Total": 28055.28
+},
+{
+"Id": 15,
+"Ministry": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+"Department": "Department of Consumer Affairs",
+"Revenue": 1736.58,
+"Capital": 48.59,
+"Total": 1785.17
+},
+{
+"Id": 16,
+"Ministry": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",
+"Department": "Department of Food and Public Distribution",
+"Revenue": 173735,
+"Capital": 424.1,
+"Total": 174159.1
+},
+{
+"Id": 17,
+"Ministry": "MINISTRY OF CORPORATE AFFAIRS",
+"Department": "Ministry of Corporate Affairs",
+"Revenue": 537.65,
+"Capital": 26.5,
+"Total": 564.15
+},
+{
+"Id": 18,
+"Ministry": "MINISTRY OF CULTURE",
+"Department": "Ministry of Culture",
+"Revenue": 2764.28,
+"Capital": 79.04,
+"Total": 2843.32
+},
+{
+"Id": 19,
+"Ministry": "MINISTRY OF DEFENCE",
+"Department": "Ministry of Defence (Misc.)",
+"Revenue": 10624.36,
+"Capital": 5581.73,
+"Total": 16206.09
+},
+{
+"Id": 20,
+"Ministry": "MINISTRY OF DEFENCE",
+"Department": "Defence Services (Revenue)",
+"Revenue": 185323.19,
+"Capital": "NA",
+"Total": 185323.19
+},
+{
+"Id": 21,
+"Ministry": "MINISTRY OF DEFENCE",
+"Department": "Capital Outlay on Defence Services",
+"Revenue": "NA",
+"Capital": 93982.13,
+"Total": 93982.13
+},
+{
+"Id": 22,
+"Ministry": "MINISTRY OF DEFENCE",
+"Department": "Defence Pensions",
+"Revenue": 108853.3,
+"Capital": "NA",
+"Total": 108853.3
+},
+{
+"Id": 23,
+"Ministry": "MINISTRY OF DEVELOPMENT OF NORTH EASTERN REGION",
+"Department": "Ministry of Development of North Eastern Region",
+"Revenue": 2326,
+"Capital": 674,
+"Total": 3000
+},
+{
+"Id": 24,
+"Ministry": "MINISTRY OF DRINKING WATER AND SANITATION",
+"Department": "Ministry of Drinking Water and Sanitation",
+"Revenue": 22356.6,
+"Capital": "NA",
+"Total": 22356.6
+},
+{
+"Id": 25,
+"Ministry": "MINISTRY OF EARTH SCIENCES",
+"Department": "Ministry of Earth Sciences",
+"Revenue": 1700,
+"Capital": 100,
+"Total": 1800
+},
+{
+"Id": 26,
+"Ministry": "MINISTRY OF ELECTRONICS AND INFORMATION TECHNOLOGY",
+"Department": "Ministry of Electronics and Information Technology",
+"Revenue": 5675,
+"Capital": 325,
+"Total": 6000
+},
+{
+"Id": 27,
+"Ministry": "MINISTRY OF ENVIRONMENT, FORESTS AND CLIMATE CHANGE",
+"Department": "Ministry of Environment, Forests and Climate Change",
+"Revenue": 2586.67,
+"Capital": 88.75,
+"Total": 2675.42
+},
+{
+"Id": 28,
+"Ministry": "MINISTRY OF EXTERNAL AFFAIRS",
+"Department": "Ministry of External Affairs",
+"Revenue": 13374.5,
+"Capital": 1636.5,
+"Total": 15011
+},
+{
+"Id": 29,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Department of Economic Affairs",
+"Revenue": 4359.64,
+"Capital": 8383.2,
+"Total": 12742.84
+},
+{
+"Id": 30,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Department of Expenditure",
+"Revenue": 413.33,
+"Capital": "NA",
+"Total": 413.33
+},
+{
+"Id": 31,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Department of Financial Services",
+"Revenue": 1739.05,
+"Capital": 4838.01,
+"Total": 6577.06
+},
+{
+"Id": 32,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Department of Investment and Public Asset Management (DIPAM)",
+"Revenue": 44,
+"Capital": "NA",
+"Total": 44
+},
+{
+"Id": 33,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Department of Revenue",
+"Revenue": 90728,
+"Capital": 8.44,
+"Total": 90736.44
+},
+{
+"Id": 34,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Direct Taxes",
+"Revenue": 6728,
+"Capital": 252,
+"Total": 6980
+},
+{
+"Id": 35,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Indirect Taxes",
+"Revenue": 7418,
+"Capital": 407,
+"Total": 7825
+},
+{
+"Id": 36,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Indian Audit and Accounts Department",
+"Revenue": 4289.7,
+"Capital": 16,
+"Total": 4305.7
+},
+{
+"Id": 37,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Interest Payments",
+"Revenue": 575794.95,
+"Capital": "NA",
+"Total": 575794.95
+},
+{
+"Id": 38,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Repayment of Debt",
+"Revenue": "NA",
+"Capital": "NA",
+"Total": "NA"
+},
+{
+"Id": 39,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Pensions",
+"Revenue": 46430,
+"Capital": "NA",
+"Total": 46430
+},
+{
+"Id": 40,
+"Ministry": "MINISTRY OF FINANCE",
+"Department": "Transfers to States",
+"Revenue": 136873.5,
+"Capital": 5984,
+"Total": 142857.5
+},
+{
+"Id": 41,
+"Ministry": "MINISTRY OF FOOD PROCESSING INDUSTRIES",
+"Department": "Ministry of Food Processing Industries",
+"Revenue": 1400,
+"Capital": "NA",
+"Total": 1400
+},
+{
+"Id": 42,
+"Ministry": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+"Department": "Department of Health and Family Welfare",
+"Revenue": 50079.6,
+"Capital": 2720.4,
+"Total": 52800
+},
+{
+"Id": 43,
+"Ministry": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+"Department": "Department of Health Research",
+"Revenue": 1800,
+"Capital": "NA",
+"Total": 1800
+},
+{
+"Id": 44,
+"Ministry": "MINISTRY OF HEAVY INDUSTRIES AND PUBLIC ENTERPRISES",
+"Department": "Department of Heavy Industry",
+"Revenue": 739.24,
+"Capital": 386.49,
+"Total": 1125.73
+},
+{
+"Id": 45,
+"Ministry": "MINISTRY OF HEAVY INDUSTRIES AND PUBLIC ENTERPRISES",
+"Department": "Department of Public Enterprises",
+"Revenue": 20.44,
+"Capital": "NA",
+"Total": 20.44
+},
+{
+"Id": 46,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Ministry of Home Affairs",
+"Revenue": 4468.91,
+"Capital": 324.45,
+"Total": 4793.36
+},
+{
+"Id": 47,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Cabinet",
+"Revenue": 770,
+"Capital": "NA",
+"Total": 770
+},
+{
+"Id": 48,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Police",
+"Revenue": 76838.31,
+"Capital": 11048.19,
+"Total": 87886.5
+},
+{
+"Id": 49,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Andaman and Nicobar Islands",
+"Revenue": 3923,
+"Capital": 600.86,
+"Total": 4523.86
+},
+{
+"Id": 50,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Chandigarh",
+"Revenue": 3739.8,
+"Capital": 345.03,
+"Total": 4084.83
+},
+{
+"Id": 51,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Dadra and Nagar Haveli",
+"Revenue": 796.1,
+"Capital": 318.34,
+"Total": 1114.44
+},
+{
+"Id": 52,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Daman and Diu",
+"Revenue": 462.08,
+"Capital": 311.41,
+"Total": 773.49
+},
+{
+"Id": 53,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Lakshadweep",
+"Revenue": 1093.86,
+"Capital": 266.45,
+"Total": 1360.31
+},
+{
+"Id": 54,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Transfers to Delhi",
+"Revenue": 790,
+"Capital": "NA",
+"Total": 790
+},
+{
+"Id": 55,
+"Ministry": "MINISTRY OF HOME AFFAIRS",
+"Department": "Transfers to Puducherry",
+"Revenue": 1476,
+"Capital": "NA",
+"Total": 1476
+},
+{
+"Id": 56,
+"Ministry": "MINISTRY OF HOUSING AND URBAN AFFAIRS",
+"Department": "Ministry of Housing and Urban Affairs",
+"Revenue": 25349.73,
+"Capital": 16415.4,
+"Total": 41765.13
+},
+{
+"Id": 57,
+"Ministry": "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
+"Department": "Department of School Education and Literacy",
+"Revenue": 50000,
+"Capital": "NA",
+"Total": 50000
+},
+{
+"Id": 58,
+"Ministry": "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
+"Department": "Department of Higher Education",
+"Revenue": 32258.29,
+"Capital": 2752,
+"Total": 35010.29
+},
+{
+"Id": 59,
+"Ministry": "MINISTRY OF INFORMATION AND BROADCASTING",
+"Department": "Ministry of Information and Broadcasting",
+"Revenue": 4065.58,
+"Capital": 23.4,
+"Total": 4088.98
+},
+{
+"Id": 60,
+"Ministry": "MINISTRY OF LABOUR AND EMPLOYMENT",
+"Department": "Ministry of Labour and Employment",
+"Revenue": 7677.75,
+"Capital": 22.25,
+"Total": 7700
+},
+{
+"Id": 61,
+"Ministry": "MINISTRY OF LAW AND JUSTICE",
+"Department": "Law and Justice",
+"Revenue": 2586.33,
+"Capital": 1800,
+"Total": 4386.33
+},
+{
+"Id": 62,
+"Ministry": "MINISTRY OF LAW AND JUSTICE",
+"Department": "Election Commission",
+"Revenue": 248.66,
+"Capital": 19.3,
+"Total": 267.96
+},
+{
+"Id": 63,
+"Ministry": "MINISTRY OF LAW AND JUSTICE",
+"Department": "Supreme Court of India",
+"Revenue": 251.06,
+"Capital": "NA",
+"Total": 251.06
+},
+{
+"Id": 64,
+"Ministry": "MINISTRY OF MICRO, SMALL AND MEDIUM ENTERPRISES",
+"Department": "Ministry of Micro, Small and Medium Enterprises",
+"Revenue": 6540.04,
+"Capital": 12.57,
+"Total": 6552.61
+},
+{
+"Id": 65,
+"Ministry": "MINISTRY OF MINES",
+"Department": "Ministry of Mines",
+"Revenue": 1499.3,
+"Capital": 170.22,
+"Total": 1669.52
+},
+{
+"Id": 66,
+"Ministry": "MINISTRY OF MINORITY AFFAIRS",
+"Department": "Ministry of Minority Affairs",
+"Revenue": 4534.96,
+"Capital": 165.04,
+"Total": 4700
+},
+{
+"Id": 67,
+"Ministry": "MINISTRY OF NEW AND RENEWABLE ENERGY",
+"Department": "Ministry of New and Renewable Energy",
+"Revenue": 5106.23,
+"Capital": 40.4,
+"Total": 5146.63
+},
+{
+"Id": 68,
+"Ministry": "MINISTRY OF PANCHAYATI RAJ",
+"Department": "Ministry of Panchayati Raj",
+"Revenue": 825.17,
+"Capital": "NA",
+"Total": 825.17
+},
+{
+"Id": 69,
+"Ministry": "MINISTRY OF PARLIAMENTARY AFFAIRS",
+"Department": "Ministry of Parliamentary Affairs",
+"Revenue": 18.86,
+"Capital": "NA",
+"Total": 18.86
+},
+{
+"Id": 70,
+"Ministry": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+"Department": "Ministry of Personnel, Public Grievances and Pensions",
+"Revenue": 1442.97,
+"Capital": 84.03,
+"Total": 1527
+},
+{
+"Id": 71,
+"Ministry": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
+"Department": "Central Vigilance Commission",
+"Revenue": 32.61,
+"Capital": "NA",
+"Total": 32.61
+},
+{
+"Id": 72,
+"Ministry": "MINISTRY OF PETROLEUM AND NATURAL GAS",
+"Department": "Ministry of Petroleum and Natural Gas",
+"Revenue": 27391.55,
+"Capital": 3709,
+"Total": 31100.55
+},
+{
+"Id": 73,
+"Ministry": "MINISTRY OF PLANNING",
+"Department": "Ministry of Planning",
+"Revenue": 338.97,
+"Capital": 0.68,
+"Total": 339.65
+},
+{
+"Id": 74,
+"Ministry": "MINISTRY OF POWER",
+"Department": "Ministry of Power",
+"Revenue": 12835.47,
+"Capital": 2211.45,
+"Total": 15046.92
+},
+{
+"Id": 75,
+"Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+"Department": "Staff, Household and Allowances of the President",
+"Revenue": 60.05,
+"Capital": "NA",
+"Total": 60.05
+},
+{
+"Id": 76,
+"Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+"Department": "Lok Sabha",
+"Revenue": 774.97,
+"Capital": "NA",
+"Total": 774.97
+},
+{
+"Id": 77,
+"Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+"Department": "Rajya Sabha",
+"Revenue": 387.94,
+"Capital": "NA",
+"Total": 387.94
+},
+{
+"Id": 78,
+"Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+"Department": "Secretariat of the Vice-President",
+"Revenue": 5.57,
+"Capital": "NA",
+"Total": 5.57
+},
+{
+"Id": 79,
+"Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
+"Department": "Union Public Service Commission",
+"Revenue": 297.61,
+"Capital": "NA",
+"Total": 297.61
+},
+{
+"Id": 80,
+"Ministry": "MINISTRY OF RAILWAYS",
+"Department": "Ministry of Railways",
+"Revenue": 2028,
+"Capital": 53060,
+"Total": 55088
+},
+{
+"Id": 81,
+"Ministry": "MINISTRY OF ROAD TRANSPORT AND HIGHWAYS",
+"Department": "Ministry of Road Transport and Highways",
+"Revenue": 11559.75,
+"Capital": 59440.25,
+"Total": 71000
+},
+{
+"Id": 82,
+"Ministry": "MINISTRY OF RURAL DEVELOPMENT",
+"Department": "Department of Rural Development",
+"Revenue": 112398.67,
+"Capital": 5.25,
+"Total": 112403.92
+},
+{
+"Id": 83,
+"Ministry": "MINISTRY OF RURAL DEVELOPMENT",
+"Department": "Department of Land Resources",
+"Revenue": 2511.4,
+"Capital": "NA",
+"Total": 2511.4
+},
+{
+"Id": 84,
+"Ministry": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+"Department": "Department of Science and Technology",
+"Revenue": 5047.28,
+"Capital": 67.5,
+"Total": 5114.78
+},
+{
+"Id": 85,
+"Ministry": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+"Department": "Department of Biotechnology",
+"Revenue": 2411.53,
+"Capital": "NA",
+"Total": 2411.53
+},
+{
+"Id": 86,
+"Ministry": "MINISTRY OF SCIENCE AND TECHNOLOGY",
+"Department": "Department of Scientific and Industrial Research",
+"Revenue": 4786.97,
+"Capital": 9,
+"Total": 4795.97
+},
+{
+"Id": 87,
+"Ministry": "MINISTRY OF SHIPPING",
+"Department": "Ministry of Shipping",
+"Revenue": 1519.47,
+"Capital": 361.66,
+"Total": 1881.13
+},
+{
+"Id": 88,
+"Ministry": "MINISTRY OF SKILL DEVELOPMENT AND ENTREPRENEURSHIP",
+"Department": "Ministry of Skill Development and Entrepreneurship",
+"Revenue": 3141,
+"Capital": 259,
+"Total": 3400
+},
+{
+"Id": 89,
+"Ministry": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+"Department": "Department of Social Justice and Empowerment",
+"Revenue": 7342.6,
+"Capital": 407.4,
+"Total": 7750
+},
+{
+"Id": 90,
+"Ministry": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+"Department": "Department of Empowerment of Persons with Disabilities",
+"Revenue": 1031.52,
+"Capital": 38.48,
+"Total": 1070
+},
+{
+"Id": 91,
+"Ministry": "DEPARMENT OF SPACE",
+"Department": "Department of Space",
+"Revenue": 5496.18,
+"Capital": 5287.24,
+"Total": 10783.42
+},
+{
+"Id": 92,
+"Ministry": "MINISTRY OF STATISTICS AND PROGRAMME IMPLEMENTATION",
+"Department": "Ministry of Statistics and Programme Implementation",
+"Revenue": 4844,
+"Capital": 15,
+"Total": 4859
+},
+{
+"Id": 93,
+"Ministry": "MINISTRY OF STEEL",
+"Department": "Ministry of Steel",
+"Revenue": 47.9,
+"Capital": "NA",
+"Total": 47.9
+},
+{
+"Id": 94,
+"Ministry": "MINISTRY OF TEXTILES",
+"Department": "Ministry of Textiles",
+"Revenue": 7109.84,
+"Capital": 37.89,
+"Total": 7147.73
+},
+{
+"Id": 95,
+"Ministry": "MINISTRY OF TOURISM",
+"Department": "Ministry of Tourism",
+"Revenue": 2149.99,
+"Capital": 0.01,
+"Total": 2150
+},
+{
+"Id": 96,
+"Ministry": "MINISTRY OF TRIBAL AFFAIRS",
+"Department": "Ministry of Tribal Affairs",
+"Revenue": 5935,
+"Capital": 65,
+"Total": 6000
+},
+{
+"Id": 97,
+"Ministry": "MINISTRY OF WATER RESOURCES, RIVER DEVELOPMENT AND GANGA REJUVENATION",
+"Department": "Ministry of Water Resources, River Development and Ganga Rejuvenation",
+"Revenue": 8152.14,
+"Capital": 707.86,
+"Total": 8860
+},
+{
+"Id": 98,
+"Ministry": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+"Department": "Ministry of Women and Child Development",
+"Revenue": 24699.99,
+"Capital": 0.01,
+"Total": 24700
+},
+{
+"Id": 99,
+"Ministry": "MINISTRY OF YOUTH AFFAIRS AND SPORTS",
+"Department": "Ministry of Youth Affairs and Sports",
+"Revenue": 2138.31,
+"Capital": 58.04,
+"Total": 2196.35
+}
+]
