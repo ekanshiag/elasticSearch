@@ -4,19 +4,22 @@ const client = new elasticSearch.Client({
   log: 'error'
 })
 
-async function searchAll (index) {
+async function searchMinistry (index, Ministry) {
   const response = await client.search({
     index,
     body: {
       size: 100,
       query: {
-        match_all: {}
+        match: {
+          Ministry
+        }
       }
     }
   })
+
   for (let hit of response.hits.hits) {
     console.log(hit['_source'])
   }
 }
 
-searchAll('budget')
+searchMinistry('budget', 'Agriculture')
