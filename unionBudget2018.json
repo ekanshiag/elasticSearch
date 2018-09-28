@@ -12,7 +12,7 @@
 "Ministry": "MINISTRY OF AGRICULTURE AND FARMERS' WELFARE",
 "Department": "Department of Agricultural Research and Education",
 "Revenue": 7800,
-"Capital": "NA",
+"Capital": 0,
 "Total": 7800
 },
 {
@@ -44,7 +44,7 @@
 "Ministry": "MINISTRY OF CHEMICALS AND FERTILISERS",
 "Department": "Department of Chemicals and Petrochemicals",
 "Revenue": 199.65,
-"Capital": "NA",
+"Capital": 0,
 "Total": 199.65
 },
 {
@@ -76,7 +76,7 @@
 "Ministry": "MINISTRY OF COAL",
 "Department": "Ministry of Coal",
 "Revenue": 770.91,
-"Capital": "NA",
+"Capital": 0,
 "Total": 770.91
 },
 {
@@ -156,14 +156,14 @@
 "Ministry": "MINISTRY OF DEFENCE",
 "Department": "Defence Services (Revenue)",
 "Revenue": 185323.19,
-"Capital": "NA",
+"Capital": 0,
 "Total": 185323.19
 },
 {
 "Id": 21,
 "Ministry": "MINISTRY OF DEFENCE",
 "Department": "Capital Outlay on Defence Services",
-"Revenue": "NA",
+"Revenue": 0,
 "Capital": 93982.13,
 "Total": 93982.13
 },
@@ -172,7 +172,7 @@
 "Ministry": "MINISTRY OF DEFENCE",
 "Department": "Defence Pensions",
 "Revenue": 108853.3,
-"Capital": "NA",
+"Capital": 0,
 "Total": 108853.3
 },
 {
@@ -188,7 +188,7 @@
 "Ministry": "MINISTRY OF DRINKING WATER AND SANITATION",
 "Department": "Ministry of Drinking Water and Sanitation",
 "Revenue": 22356.6,
-"Capital": "NA",
+"Capital": 0,
 "Total": 22356.6
 },
 {
@@ -236,7 +236,7 @@
 "Ministry": "MINISTRY OF FINANCE",
 "Department": "Department of Expenditure",
 "Revenue": 413.33,
-"Capital": "NA",
+"Capital": 0,
 "Total": 413.33
 },
 {
@@ -252,7 +252,7 @@
 "Ministry": "MINISTRY OF FINANCE",
 "Department": "Department of Investment and Public Asset Management (DIPAM)",
 "Revenue": 44,
-"Capital": "NA",
+"Capital": 0,
 "Total": 44
 },
 {
@@ -292,23 +292,23 @@
 "Ministry": "MINISTRY OF FINANCE",
 "Department": "Interest Payments",
 "Revenue": 575794.95,
-"Capital": "NA",
+"Capital": 0,
 "Total": 575794.95
 },
 {
 "Id": 38,
 "Ministry": "MINISTRY OF FINANCE",
 "Department": "Repayment of Debt",
-"Revenue": "NA",
-"Capital": "NA",
-"Total": "NA"
+"Revenue": 0,
+"Capital": 0,
+"Total": 0
 },
 {
 "Id": 39,
 "Ministry": "MINISTRY OF FINANCE",
 "Department": "Pensions",
 "Revenue": 46430,
-"Capital": "NA",
+"Capital": 0,
 "Total": 46430
 },
 {
@@ -324,7 +324,7 @@
 "Ministry": "MINISTRY OF FOOD PROCESSING INDUSTRIES",
 "Department": "Ministry of Food Processing Industries",
 "Revenue": 1400,
-"Capital": "NA",
+"Capital": 0,
 "Total": 1400
 },
 {
@@ -340,7 +340,7 @@
 "Ministry": "MINISTRY OF HEALTH AND FAMILY WELFARE",
 "Department": "Department of Health Research",
 "Revenue": 1800,
-"Capital": "NA",
+"Capital": 0,
 "Total": 1800
 },
 {
@@ -356,7 +356,7 @@
 "Ministry": "MINISTRY OF HEAVY INDUSTRIES AND PUBLIC ENTERPRISES",
 "Department": "Department of Public Enterprises",
 "Revenue": 20.44,
-"Capital": "NA",
+"Capital": 0,
 "Total": 20.44
 },
 {
@@ -372,7 +372,7 @@
 "Ministry": "MINISTRY OF HOME AFFAIRS",
 "Department": "Cabinet",
 "Revenue": 770,
-"Capital": "NA",
+"Capital": 0,
 "Total": 770
 },
 {
@@ -428,7 +428,7 @@
 "Ministry": "MINISTRY OF HOME AFFAIRS",
 "Department": "Transfers to Delhi",
 "Revenue": 790,
-"Capital": "NA",
+"Capital": 0,
 "Total": 790
 },
 {
@@ -436,7 +436,7 @@
 "Ministry": "MINISTRY OF HOME AFFAIRS",
 "Department": "Transfers to Puducherry",
 "Revenue": 1476,
-"Capital": "NA",
+"Capital": 0,
 "Total": 1476
 },
 {
@@ -452,7 +452,7 @@
 "Ministry": "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
 "Department": "Department of School Education and Literacy",
 "Revenue": 50000,
-"Capital": "NA",
+"Capital": 0,
 "Total": 50000
 },
 {
@@ -500,7 +500,7 @@
 "Ministry": "MINISTRY OF LAW AND JUSTICE",
 "Department": "Supreme Court of India",
 "Revenue": 251.06,
-"Capital": "NA",
+"Capital": 0,
 "Total": 251.06
 },
 {
@@ -540,7 +540,7 @@
 "Ministry": "MINISTRY OF PANCHAYATI RAJ",
 "Department": "Ministry of Panchayati Raj",
 "Revenue": 825.17,
-"Capital": "NA",
+"Capital": 0,
 "Total": 825.17
 },
 {
@@ -548,7 +548,7 @@
 "Ministry": "MINISTRY OF PARLIAMENTARY AFFAIRS",
 "Department": "Ministry of Parliamentary Affairs",
 "Revenue": 18.86,
-"Capital": "NA",
+"Capital": 0,
 "Total": 18.86
 },
 {
@@ -564,7 +564,7 @@
 "Ministry": "MINISTRY OF PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",
 "Department": "Central Vigilance Commission",
 "Revenue": 32.61,
-"Capital": "NA",
+"Capital": 0,
 "Total": 32.61
 },
 {
@@ -596,7 +596,7 @@
 "Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
 "Department": "Staff, Household and Allowances of the President",
 "Revenue": 60.05,
-"Capital": "NA",
+"Capital": 0,
 "Total": 60.05
 },
 {
@@ -604,7 +604,7 @@
 "Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
 "Department": "Lok Sabha",
 "Revenue": 774.97,
-"Capital": "NA",
+"Capital": 0,
 "Total": 774.97
 },
 {
@@ -612,7 +612,7 @@
 "Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
 "Department": "Rajya Sabha",
 "Revenue": 387.94,
-"Capital": "NA",
+"Capital": 0,
 "Total": 387.94
 },
 {
@@ -620,7 +620,7 @@
 "Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
 "Department": "Secretariat of the Vice-President",
 "Revenue": 5.57,
-"Capital": "NA",
+"Capital": 0,
 "Total": 5.57
 },
 {
@@ -628,7 +628,7 @@
 "Ministry": "THE PRESIDENT, PARLIAMENT, UNION PUBLIC SERVICE COMMISSION AND THE SECRETARIAT OF THE VICE PRESIDENT",
 "Department": "Union Public Service Commission",
 "Revenue": 297.61,
-"Capital": "NA",
+"Capital": 0,
 "Total": 297.61
 },
 {
@@ -660,7 +660,7 @@
 "Ministry": "MINISTRY OF RURAL DEVELOPMENT",
 "Department": "Department of Land Resources",
 "Revenue": 2511.4,
-"Capital": "NA",
+"Capital": 0,
 "Total": 2511.4
 },
 {
@@ -676,7 +676,7 @@
 "Ministry": "MINISTRY OF SCIENCE AND TECHNOLOGY",
 "Department": "Department of Biotechnology",
 "Revenue": 2411.53,
-"Capital": "NA",
+"Capital": 0,
 "Total": 2411.53
 },
 {
@@ -740,7 +740,7 @@
 "Ministry": "MINISTRY OF STEEL",
 "Department": "Ministry of Steel",
 "Revenue": 47.9,
-"Capital": "NA",
+"Capital": 0,
 "Total": 47.9
 },
 {
